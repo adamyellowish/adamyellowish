@@ -1,4 +1,4 @@
-
+;converts the letters of the text in the string from uppercase to lowercase, lowercase to uppercase
 data segment
    DATA1 DB 'uPPeRCasEtoLoWEr'
    DATA2 DB 16 dup(?)
